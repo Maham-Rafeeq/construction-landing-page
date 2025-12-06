@@ -406,7 +406,7 @@ h2 {
  .review-cards .card1{
     margin-top: 50px;
     width: 30%;
-    height: 37vh;
+    height: 43vh;
     border-radius: 10px;
     box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
     
@@ -542,5 +542,6 @@ h2 {
   .footer .copyright a span{
       padding-left: 5px;
     color:var(--primary-bg-blue);
+
 
   }
